@@ -1,6 +1,6 @@
 export default class LoadingScene extends Phaser.Scene {
     constructor() {
-        super('loading_screen');
+        super('LoadingScene');
     }
 
     preload() {
